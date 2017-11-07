@@ -1,2 +1,2 @@
 # project-euler
-My answer to the project Euler questions.
+My answers to the project Euler questions.
